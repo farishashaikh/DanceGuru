@@ -84,7 +84,7 @@ function make_slides($connect)
 <link rel="stylesheet" type="text/css" href="style/css/color/teal.css">
 <link rel="stylesheet" type="text/css" href="style/css/font/font2.css">
 <link href="https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,500,500i,600,600i,700,700i,800,800i" rel="stylesheet">
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
@@ -243,55 +243,52 @@ function make_slides($connect)
   <!-- /.wrapper -->
   <div class="wrapper gray-wrapper">
     <div class="container inner">
-      <h2 class="section-title mb-30 text-center">Featured Stories</h2>
+      <h2 class="section-title mb-30 text-center">Dance Forms</h2>
       <div class="tiles text-center">
         <div class="items row">
           <div class="item col-md-6 col-lg-3">
-            <figure class="overlay rounded overlay1 mb-20"><a href="#"><img src="style/images/art/cp1.jpg" alt="" /></a>
+            <figure class="overlay rounded overlay1 mb-20"><a href="#"><img src="style/images/BharataNatyam.jpg" alt="" /></a>
               <figcaption class="d-flex">
                 <div class="align-self-center mx-auto">
                   <h5 class="mb-0">See Album</h5>
                 </div>
               </figcaption>
             </figure>
-            <h4 class="mb-0">Diana & Wayne</h4>
-            <div class="meta"><span class="count">8 Photos</span><span class="category">Wedding</span></div>
+            <h4 class="mb-0">Bharatnatyam</h4>
+            
           </div>
           <!--/.item -->
           <div class="item col-md-6 col-lg-3">
-            <figure class="overlay rounded overlay1 mb-20"><a href="#"><img src="style/images/art/cp2.jpg" alt="" /></a>
+            <figure class="overlay rounded overlay1 mb-20"><a href="#"><img src="style/images/Odissi.jpg" alt="" /></a>
               <figcaption class="d-flex">
                 <div class="align-self-center mx-auto">
                   <h5 class="mb-0">See Album</h5>
                 </div>
               </figcaption>
             </figure>
-            <h4 class="mb-0">Gallagher Family</h4>
-            <div class="meta"><span class="count">6 Photos</span><span class="category">Family</span></div>
+            <h4 class="mb-0">Odissi</h4>
           </div>
           <!--/.item -->
           <div class="item col-md-6 col-lg-3">
-            <figure class="overlay rounded overlay1 mb-20"><a href="#"><img src="style/images/art/cp3.jpg" alt="" /></a>
+            <figure class="overlay rounded overlay1 mb-20"><a href="#"><img src="style/images/Manipuri.jpg" alt="" /></a>
               <figcaption class="d-flex">
                 <div class="align-self-center mx-auto">
                   <h5 class="mb-0">See Album</h5>
                 </div>
               </figcaption>
             </figure>
-            <h4 class="mb-0">Evelyn & John</h4>
-            <div class="meta"><span class="count">11 Photos</span><span class="category">Maternity</span></div>
+            <h4 class="mb-0">Manipuri</h4>
           </div>
           <!--/.item -->
           <div class="item col-md-6 col-lg-3">
-            <figure class="overlay rounded overlay1 mb-20"><a href="#"><img src="style/images/art/cp4.jpg" alt="" /></a>
+            <figure class="overlay rounded overlay1 mb-20"><a href="#"><img src="style/images/Kuchipudi.jpg" alt="" /></a>
               <figcaption class="d-flex">
                 <div class="align-self-center mx-auto">
                   <h5 class="mb-0">See Album</h5>
                 </div>
               </figcaption>
             </figure>
-            <h4 class="mb-0">Baby Aaron</h4>
-            <div class="meta"><span class="count">7 Photos</span><span class="category">Newborn</span></div>
+            <h4 class="mb-0">Kuchipudi</h4>
           </div>
           <!--/.item --> 
         </div>
@@ -519,7 +516,6 @@ function make_slides($connect)
 <script src="style/revolution/js/jquery.themepunch.revolution.min.js"></script> 
 <script src="style/revolution/revolution-addons/filmstrip/js/revolution.addon.filmstrip.min.js"></script> 
 <script src="style/revolution/revolution-addons/typewriter/js/revolution.addon.typewriter.min.js"></script> 
- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems! The following part can be removed on Server for On Demand Loading) 
 <script src="style/revolution/js/extensions/revolution.extension.actions.min.js"></script> 
 <script src="style/revolution/js/extensions/revolution.extension.carousel.min.js"></script> 
 <script src="style/revolution/js/extensions/revolution.extension.kenburn.min.js"></script> 
